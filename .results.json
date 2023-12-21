@@ -5,9 +5,9 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2023-12-20T15:45:11.035Z",
-    "end": "2023-12-20T15:45:11.821Z",
-    "duration": 786
+    "start": "2023-12-21T12:28:18.848Z",
+    "end": "2023-12-21T12:28:19.608Z",
+    "duration": 760
   },
   "tests": [
     {
@@ -34,35 +34,35 @@
     {
       "title": "has the `returnLastTwoDrivers` function to as its last element",
       "fullTitle": "index.js selectingDrivers has the `returnLastTwoDrivers` function to as its last element",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "allows us to invoke either function from the array",
       "fullTitle": "index.js selectingDrivers allows us to invoke either function from the array",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns a function",
       "fullTitle": "index.js createFareMultiplier() returns a function",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should multiply a given value using the created multiplier",
       "fullTitle": "index.js createFareMultiplier() should multiply a given value using the created multiplier",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is a function",
       "fullTitle": "index.js fareDoubler() is a function",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -83,7 +83,7 @@
     {
       "title": "triples fares",
       "fullTitle": "index.js fareTripler() triples fares",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -129,35 +129,35 @@
     {
       "title": "has the `returnLastTwoDrivers` function to as its last element",
       "fullTitle": "index.js selectingDrivers has the `returnLastTwoDrivers` function to as its last element",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "allows us to invoke either function from the array",
       "fullTitle": "index.js selectingDrivers allows us to invoke either function from the array",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns a function",
       "fullTitle": "index.js createFareMultiplier() returns a function",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should multiply a given value using the created multiplier",
       "fullTitle": "index.js createFareMultiplier() should multiply a given value using the created multiplier",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is a function",
       "fullTitle": "index.js fareDoubler() is a function",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -178,7 +178,7 @@
     {
       "title": "triples fares",
       "fullTitle": "index.js fareTripler() triples fares",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
